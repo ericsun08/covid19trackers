@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Poppins:wght@300&display=swap');
+
+.textStyleTitle {
+  font-family: 'Kanit', sans-serif;
+  font-size: x-large;
+}
+
+.myColor {
+  background-color: #292e31;
+}
+
+.mobileNav {
+  display: none;
+}
+
+@media (min-width: 1000px) and (max-width: 3000px) {
+  .myMobileNavCon {
+    height: 0;
+  }
+
+  .mobileItem {
+    display: none;
+  }
+}
+
+@media (width: 768px) {
+  .myNav {
+    display: block;
+  }
+}
+
+/*width for Mobile*/
+@media (max-width: 768px) {
+  .mobileTitle {
+    width: 290px;
+  }
+
+  .mobileNav {
+    display: inline-block;
+  }
+
+  .myMobileNavCon {
+    top: 6.4%;
+    height: 12%;
+    display: none;
+    z-index: 1;
+    transition: 1s;
+  }
+}
+
+@media (width: 768px) {
+  .mobileTitle {
+    width: 620px;
+  }
+
+  .myMobileNavCon {
+    top: 5.1%;
+    height: 9%;
+    display: none;
+    z-index: 1;
+    transition: 1s;
+  }
+}
+
+/*width for galaxy fold*/
+@media (width: 280px) {
+  .myMobileNavCon {
+    top: 5.8%;
+    height: 12%;
+    display: none;
+    z-index: 1;
+    transition: 1s;
+  }
+}
+
+/*width for surface duo*/
+@media (width: 540px) {
+  .mobileTitle {
+    width: 450px;
+  }
+}
+
+/*width for G-Pixel*/
+@media (width: 411px) {
+  .myMobileNavCon {
+    top: 6.3%;
+    height: 12%;
+    display: none;
+    z-index: 1;
+    transition: 1s;
+  }
+}

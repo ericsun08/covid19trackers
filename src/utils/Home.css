@@ -1,0 +1,40 @@
+.mobileSection {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  .sectionZero {
+    width: 360px;
+    margin-left: -35px;
+  }
+
+  .sectionOne {
+    width: 360px;
+    margin-left: -35px;
+  }
+
+  .sectionTwo {
+    margin-left: -37px;
+    width: 360px;
+  }
+
+  .sectionThree {
+    display: none;
+  }
+
+  .mobileSection {
+    display: block;
+    width: 360px;
+    margin-left: -37px;
+  }
+
+  .mobileProvContainer {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 500px;
+  }
+
+  .mobileProvContainer::-webkit-scrollbar {
+    display: none;
+  }
+}
