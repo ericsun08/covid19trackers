@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/covid19trackers/static/css/main.ae5a02a4.chunk.css",
+    "main.js": "/covid19trackers/static/js/main.a998742a.chunk.js",
+    "main.js.map": "/covid19trackers/static/js/main.a998742a.chunk.js.map",
+    "runtime-main.js": "/covid19trackers/static/js/runtime-main.e72c719f.js",
+    "runtime-main.js.map": "/covid19trackers/static/js/runtime-main.e72c719f.js.map",
+    "static/css/2.818011ed.chunk.css": "/covid19trackers/static/css/2.818011ed.chunk.css",
+    "static/js/2.73a8ea4e.chunk.js": "/covid19trackers/static/js/2.73a8ea4e.chunk.js",
+    "static/js/2.73a8ea4e.chunk.js.map": "/covid19trackers/static/js/2.73a8ea4e.chunk.js.map",
+    "static/js/3.f37277ab.chunk.js": "/covid19trackers/static/js/3.f37277ab.chunk.js",
+    "static/js/3.f37277ab.chunk.js.map": "/covid19trackers/static/js/3.f37277ab.chunk.js.map",
+    "index.html": "/covid19trackers/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/covid19trackers/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ae5a02a4.chunk.css.map": "/covid19trackers/static/css/main.ae5a02a4.chunk.css.map",
+    "static/js/2.73a8ea4e.chunk.js.LICENSE.txt": "/covid19trackers/static/js/2.73a8ea4e.chunk.js.LICENSE.txt",
+    "static/media/corona.2594e078.JPG": "/covid19trackers/static/media/corona.2594e078.JPG",
+    "static/media/cover.42ec2608.png": "/covid19trackers/static/media/cover.42ec2608.png",
+    "static/media/distance.14eb159f.png": "/covid19trackers/static/media/distance.14eb159f.png",
+    "static/media/face.c011c0eb.JPG": "/covid19trackers/static/media/face.c011c0eb.JPG",
+    "static/media/home.be23e9b5.JPG": "/covid19trackers/static/media/home.be23e9b5.JPG",
+    "static/media/smoke.a70da752.JPG": "/covid19trackers/static/media/smoke.a70da752.JPG",
+    "static/media/symptoms.538f564d.JPG": "/covid19trackers/static/media/symptoms.538f564d.JPG",
+    "static/media/washHand.0f42d85f.png": "/covid19trackers/static/media/washHand.0f42d85f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e72c719f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.73a8ea4e.chunk.js",
+    "static/css/main.ae5a02a4.chunk.css",
+    "static/js/main.a998742a.chunk.js"
+  ]
+}
