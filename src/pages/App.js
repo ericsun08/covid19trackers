@@ -15,7 +15,7 @@ import '../utils/App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/covid19trackers">
       <div className="App">
         <header>
           <Navbar />
